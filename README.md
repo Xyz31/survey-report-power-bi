@@ -70,11 +70,6 @@ Our analysis goes beyond simple statistics, providing a holistic view of the dat
 - Certifications
 - Industry Sector
 
-### Technical Capabilities
-- Primary/Secondary Programming Languages
-- Data Tools
-- Cloud Platforms
-- Machine Learning Skills
 
 ### Compensation & Career
 - Base Salary
